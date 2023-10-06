@@ -1,0 +1,1 @@
+PS C:\project\Front-End\Lectures> npx create-react-app 17_homework2_18_classwork_19_09_2023 --template typescript
